@@ -1,2 +1,2 @@
-###Simple Create, Read, Update, Delete (CRUD) in PHP & MySQLi
+## Simple Create, Read, Update, Delete (CRUD) in PHP & MySQLi
 
